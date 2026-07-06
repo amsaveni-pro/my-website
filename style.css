@@ -1,0 +1,331 @@
+body{
+    overflow-x: hidden;
+}
+
+.carousel-inner{
+    position: relative;
+    left: 30px;
+    top: 20px;
+    
+}
+.col{
+    background-color: rgba(189, 197, 204, 0.151);
+}
+.right{
+    position: relative;
+    right: 230px;
+    bottom: 30px;
+}
+.container{
+    position: relative;
+    background-color: white;
+}
+.img{
+    position: relative;
+    left: 2px;
+    bottom: 360px;
+}
+.left{
+    position: relative;
+    left: 200px;
+}
+.logo{
+    position: relative;
+    top: 100px;
+    right: 50px;
+    display: inline-flex;
+    
+}
+.sign{
+    position: relative;
+    top: 150px;
+    left: 400px;
+    width: 400px;
+}
+.pic{
+    position: relative;
+    top:150px;
+    left: 20px;
+}
+.style{
+    position: relative;
+    left: 540px;
+    top: 10px;
+    background-color:rgba(116, 145, 172, 0.322);
+    width: 300px;
+    border-radius: 9px;
+    
+}
+.vd{
+    position: relative;
+    top: 200px;
+    left: 10px;
+}
+.last{ 
+    position: relative;
+    top: 250px;
+    left: 100px;
+    
+
+}
+
+li{
+    list-style-type: none;
+    text-align: justify;
+
+}
+.lp{
+    position: relative;
+    top: 40px;
+    left:80px;
+    display: flex;
+
+}
+.par{
+    position: relative;
+    left: 280px;
+    bottom: 10px;
+}
+.cp{
+    position: relative;
+    left: 100px;
+}
+.hi{
+    position: relative;
+    left: 30px;
+}
+.lk{
+    position: relative;
+    right: 10px;
+}
+.pat{
+    position: relative;
+    top: 400px;
+}
+.imge{
+    position: relative;
+    bottom: 360px;
+}
+.imgee{
+    position: relative;
+    bottom: 360px;
+}
+.imgs{
+    position: relative;
+    bottom: 380px;
+}
+.ac{
+    background-color: rgba(183, 199, 202, 0.582);
+    position: relative;
+    bottom:30px;
+    color:white;
+    text-decoration: white;
+    border-radius: 8px;
+}
+.sp{
+    background-color: rgba(116, 145, 172, 0.322);
+    position: relative;
+    bottom:30px;
+    color: black;
+    border-radius: 8px;
+}
+.blog container{
+    position: relative;
+    top: 150px;
+}
+.rp{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: larger;
+    font-size: 35px;
+    right: 40px;
+}
+.logo1{
+    position: relative;
+    left: 120px;
+}
+.logo4{
+    position: relative;
+    left: 190px;
+}
+.logo2{
+    position: relative;
+    left: 140px;
+}
+.logo3{
+    position: relative;
+    left: 170px ;
+}
+.blog{
+    position: relative;
+    right: 60px;
+}
+.full{
+    background-color: rgba(127, 135, 139, 0.062);
+    height: 700px;
+}
+.single{
+    position: relative;
+    left: 150px;
+}
+.box{
+    background-color: white;
+    width: 500px;
+    height: 700px; 
+    position: relative;
+    left: 610px;
+    bottom: 600px;
+}
+.box1{
+    position: relative;
+    left: 680px;
+    bottom: 1100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 40px;
+}
+.box2{
+    position: relative;
+    left: 680px;
+    bottom: 1080px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.men{
+    position: relative;
+    top: 460px;
+    right: 400px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.women{
+    position: relative;
+    left: 560px;
+    top: 460px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.wm{
+    position: relative;
+    left: 420px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.mc{
+    position: relative;
+    left: 420px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.wl{
+    position: relative;
+    left: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.st{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-size: 20px;
+}
+.hl{
+    position: relative;
+    width: 50px;
+    height: 70px;
+    left: 600px;
+}
+.red{
+    position: relative;
+    bottom: 285px;
+    left: 8px;
+}
+.jt{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-size: 20px;
+}
+.adc{
+    position: relative;
+    left: 120px;
+    font-size: 30px;
+    color: rgba(92, 17, 17, 0.781);
+}
+.pt{
+    position: relative;
+    right: 430px;
+}
+.co{
+    position: relative;
+    right: 260px;
+}
+.at{
+    position: relative;
+    right: 150px;
+
+}
+.cl{
+    position: relative;
+    right:143px ;
+    bottom: 20px;
+}
+.cg{
+    position: relative;
+    top: 10px;
+    right: 143px;
+}
+.del{
+    position: relative;
+    right: 200px;
+}
+.scrol{
+    position: relative;
+    background-color: rgba(158, 162, 163, 0.219);
+    width: 350px;
+    height: 450px;
+    left: 920px;
+    bottom: 740px;
+    border-radius: 20px;
+
+}
+.os{
+    position: relative;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+    right: 65px;
+    top: 38px;
+    font-size: 20px;
+}
+.order{
+    position: relative;
+    text-align: justify;
+    left: 40px;
+    top: 60px;
+   
+}
+.olist{
+    position: relative;
+    left: 80px;
+    bottom: 142px;
+    font-weight: bold;
+}
+.ptc{
+    position: relative;
+    text-decoration: white;
+    bottom: 110px;
+    width: 300px;
+    height: 45px;
+    color: white;
+    background-color: black;
+    border-radius: 26px;
+}
+.feb{
+    position: relative;
+    bottom: 90px;
+}
+.buynow{
+    position: relative;
+    left: 500px;
+    width: 400px;
+    top: 50px;
+}
